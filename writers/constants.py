@@ -1,0 +1,6 @@
+UNIQUE_USERNAME = "Username must be unique."
+UNIQUE_EMAIL = "Email must be unique."
+FIRSTNAME_ERROR = "First Name length must be 2 or more and can only contains A-Z,a-z"
+LASTNAME_ERROR = "Last Name length must be 2 or more and can only contains A-Z,a-z"
+MSG_REGISTER_USER_SUCCESSFULLY = "you registered successfully."
+MSG_LOG_IN_SUCCESSFULLY = "You Successfully Logged in."
